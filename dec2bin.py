@@ -14,7 +14,7 @@ def dec2bin(numero_decimal, numero_bits):
     return numero_binario
 
 # ----------------------------------------
-# MAIN
+# 
 # ----------------------------------------
 if __name__ == "__main__":
     # Pide al usuario el número a convertir y el número de bits 
